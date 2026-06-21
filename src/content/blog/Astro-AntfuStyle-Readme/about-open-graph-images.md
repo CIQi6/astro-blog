@@ -70,13 +70,13 @@ For details on how to replace the logo in the template, refer to [Advanced Confi
 
 "Below are the OG images generated with `bgType` set to 'plum', 'rose', 'dot', and 'particle':
 
-![](../../assets/about-open-graph-images/plum.png)
+![](../../../assets/about-open-graph-images/plum.png)
 
-![](../../assets/about-open-graph-images/rose.png)
+![](../../../assets/about-open-graph-images/rose.png)
 
-![](../../assets/about-open-graph-images/dot.png)
+![](../../../assets/about-open-graph-images/dot.png)
 
-![](../../assets/about-open-graph-images/particle.png)
+![](../../../assets/about-open-graph-images/particle.png)
 
 ## How This Theme Automatically Generates OG Images
 

@@ -363,25 +363,25 @@ Use the [`:::image`](https://github.com/lin-stephanie/remark-directive-sugar?tab
 ```
 
 :::image-figure[This Is a **Figcaption** with _`<figure>` Attrs_]{style="text-align:center;color:orange"}
-![](../../assets/markdown-mdx-extended-featurs/og-image.png)
+![](../../../assets/markdown-mdx-extended-featurs/og-image.png)
 :::
 
 :::image-figure[This is a **figcaption** with _`<img>` attrs_.]
-![](~/assets/markdown-mdx-extended-featurs/og-image.png)(style: width:600px;)
+![](../../../assets/markdown-mdx-extended-featurs/og-image.png)(style: width:600px;)
 :::
 
 :::image-figure[This is a **figcaption** with `class:no-zoom`.]
-![](~/assets/markdown-mdx-extended-featurs/og-image.png)(class:no-zoom)
+![](../../../assets/markdown-mdx-extended-featurs/og-image.png)(class:no-zoom)
 :::
 
 :::image-figure
-![If `[caption]` not set, the alt text from `![]()` will be used as the figcaption.](~/assets/markdown-mdx-extended-featurs/og-image.png)
+![If `[caption]` not set, the alt text from `![](G:\blog\astro-antfustyle-theme\src\content\blog\Astro-AntfuStyle-Readme\markdown-mdx-extended-features\og-image-17820538826461.png)` will be used as the figcaption.](../../../assets/markdown-mdx-extended-featurs/og-image.png)
 :::
 
 :::image-figure[This example shows different images for light (add `class:img-light`) and dark (add `class:img-dark`) modes.]
-![](~/assets/markdown-mdx-extended-featurs/rose-dark.png)(class:img-light)
+![](G:\blog\astro-antfustyle-theme\src\content\blog\Astro-AntfuStyle-Readme\markdown-mdx-extended-features\rose-dark.png)(class:img-light)
 
-![](~/assets/markdown-mdx-extended-featurs/plum-light.png)(class:img-dark)
+![](G:\blog\astro-antfustyle-theme\src\content\blog\Astro-AntfuStyle-Readme\markdown-mdx-extended-features\plum-light.png)(class:img-dark)
 :::
 
 > [!warning] 
@@ -418,16 +418,16 @@ The custom directive wraps an image inside a link, making it clickable.
 ```
 
 :::image-a{href="https://github.com/lin-stephanie/astro-antfustyle-theme"}
-![OG image](~/assets/markdown-mdx-extended-featurs/og-image.png)
+![OG image](G:\blog\astro-antfustyle-theme\src\content\blog\Astro-AntfuStyle-Readme\markdown-mdx-extended-features\og-image-17820538936532.png)
 :::
 
 :::image-a{href="https://github.com/lin-stephanie/astro-antfustyle-theme" style="display:block" .custom-class}
-![OG image](~/assets/markdown-mdx-extended-featurs/og-image.png)(style: margin-bottom: -1rem; transform:scaleX(1.1) scaleY(1.1);, loading: eager)
+![OG image](../../../assets/markdown-mdx-extended-featurs/og-image.png)(style: margin-bottom: -1rem; transform:scaleX(1.1) scaleY(1.1);, loading: eager)
 :::
 
 ::::image-a{href="https://github.com/lin-stephanie/astro-antfustyle-theme"}
 :::image-figure[This example shows `:::image-a` wraps around `:::image-figure` (both are interchangeable).]
-![OG image](~/assets/markdown-mdx-extended-featurs/og-image.png)
+![OG image](../../../assets/markdown-mdx-extended-featurs/og-image.png)
 :::
 ::::
 

@@ -107,7 +107,7 @@ A horizontal rule follows.
 
 Here's a image can be specified like so:
 
-![example image](/og-images/og-image.png "An exemplary image")
+![example image](../../../assets/markdown-mdx-extended-featurs/og-image.png "An exemplary image")
 
 Inline math equations go in like so: $\omega = d\phi / dt$. 
 
