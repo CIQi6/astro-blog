@@ -1,12 +1,8 @@
 ---
-created: 2026-06-21 20:36
-updated: 2026-06-21 20:36
-type: 笔记
-tags:
-  - Agent
-category:
-status: 完成
-resource_folder: 99-资源库/《helloAgent》——Agent框架实现学习
+title: "《helloAgent》——Agent框架实现学习"
+pubDate: 2024-07-15
+description: "对Agent框架的学习笔记"
+tags: ["agent", "framework"]
 ---
 
 # 《helloAgent》——Agent 框架实现学习
